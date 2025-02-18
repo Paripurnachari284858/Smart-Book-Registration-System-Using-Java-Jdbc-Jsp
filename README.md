@@ -120,20 +120,6 @@ BookShopProject/
 - 📊 **Advanced Search Filters**: Allow users to search by genre, author, or price range.
 - 📱 **Responsive Design**: Optimize the UI for mobile devices.
 
----
-
-## 🤝 Contributing
-
-Contributions are welcomed! If you find bugs or have suggestions for new features:
-- Fork the repository.
-- Create a new branch.
-- Make your changes and submit a pull request.
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**. Feel free to modify and use the code as per your requirements.
 
 ---
 
