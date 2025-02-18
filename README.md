@@ -142,7 +142,7 @@ This project is licensed under the **MIT License**. Feel free to modify and use 
 For any queries or suggestions, feel free to reach out:
 
 - **Email**: pulivathi.paripurnachari@gmail.com
-- **LinkedIn**: LinkedIn: linkedin.com/in/𝘗𝘢𝘳𝘪𝘱𝘶𝘳𝘯𝘢𝘊𝘩𝘢𝘳𝘪-𝘗𝘶𝘭𝘪𝘷𝘢𝘳𝘵𝘩𝘪-893717250
+- **LinkedIn**: linkedin.com/in/𝘗𝘢𝘳𝘪𝘱𝘶𝘳𝘯𝘢𝘊𝘩𝘢𝘳𝘪-𝘗𝘶𝘭𝘪𝘷𝘢𝘳𝘵𝘩𝘪-893717250
 - **GitHub**: github.com/Paripurnachari284858
 
 
